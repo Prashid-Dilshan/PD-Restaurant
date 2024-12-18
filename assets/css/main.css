@@ -840,12 +840,13 @@ section,
 
 .hero h1 {
   margin: 0;
-  font-size: 64px;
+  font-size: 84px;
   font-weight: 700;
+  color: rgb(255, 255, 255);
 }
 
 .hero p {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
+  color: color-mix(in srgb, rgb(255, 255, 255), transparent 30%);
   margin: 5px 0 30px 0;
   font-size: 20px;
   font-weight: 400;
@@ -931,31 +932,14 @@ section,
 --------------------------------------------------------------*/
 .about h3 {
   font-weight: 700;
-  font-size: 28px;
-  margin-bottom: 20px;
-}
-
-.about .book-a-table {
-  text-align: center;
-  border: 4px solid color-mix(in srgb, var(--default-color), transparent 30%);
-  padding: 22px;
-}
-
-.about .book-a-table h3 {
-  font-family: var(--default-font);
-  margin: 0 0 0 0;
   font-size: 24px;
+  margin-bottom: 20px;
+  color: rgb(0, 0, 0);
 }
 
-.about .book-a-table p {
-  color: var(--accent-color);
-  font-weight: 500;
-  font-size: 28px;
-  margin: 0;
-}
 
 .about .fst-italic {
-  color: color-mix(in srgb, var(--default-color), var(--contrast-color) 50%);
+  color: color-mix(in srgb, black, black );
 }
 
 .about .content ul {
@@ -991,8 +975,21 @@ section,
   color: rgb(0, 0, 0);
 }
 
-.about p span{
+.about  p span{
   color: rgb(255, 24, 24);
+}
+
+
+.about .section-title .description-title{
+  color: red;
+}
+
+.about .section-title .learn-more{
+  color: rgb(0, 0, 0);
+}
+
+.about p .description-title span{
+  color: #059652;
 }
 
 
