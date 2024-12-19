@@ -18,24 +18,26 @@ Whether you’re booking a table 📝, learning about our culinary story 📖, o
 
 
 
-🍽️ Hero Section 🌟
+# 🍽️ Hero Section 🌟
+
 The Hero Section serves as the first impression of PD Restaurant, welcoming visitors with a vibrant background and an inviting call to action.
 
-Headline:
-"Super delicious foods in town!" 🍴
+## Headline:
+**"Super delicious foods in town!" 🍴**
 
 A bold and inviting statement that immediately grabs attention and sets the tone for the culinary experience at PD Restaurant.
 
-Subtext:
-"We do not cook, we create your emotions!" 😍
+## Subtext:
+**"We do not cook, we create your emotions!" 😍**
 
 This tagline reflects the restaurant's commitment to delivering not just food, but a memorable experience that connects with the heart and soul of the guest.
 
-Call-to-Action:
-A button to "Book a Table" 🖋️ encourages visitors to easily make reservations and plan their visit, making the process seamless and convenient.
+## Call-to-Action:
+A button to **"Book a Table" 🖋️** encourages visitors to easily make reservations and plan their visit, making the process seamless and convenient.
 
-Visuals:
+## Visuals:
 A captivating image of a dish 🍲, artfully presented, is placed alongside the text. The image is designed to be mouthwatering and engaging, capturing the essence of PD Restaurant’s culinary offerings and enhancing the visitor's experience.
+
 
 
 
