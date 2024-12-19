@@ -38,8 +38,9 @@ To explore the PD Restaurant website, follow these simple steps:
 
 
 
-
-
+<br>
+<br>
+<br>
 
 
 
@@ -71,7 +72,9 @@ A button to **"Book a Table" 🖋️** encourages visitors to easily make reserv
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -97,7 +100,9 @@ Each dish reflects the island's culture and unique spice blends. 🍤🌶️
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -129,7 +134,9 @@ Whether you are here for a special occasion or a casual meal, PD Restaurant is c
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -147,7 +154,9 @@ Dive in and check out our tasty offerings, all carefully crafted with the freshe
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -166,7 +175,9 @@ Whether you’re hosting a cozy family gathering or a grand celebration, we’ll
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -191,7 +202,9 @@ Join us for a taste of their artistry and enjoy dishes crafted with love and ded
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -215,7 +228,9 @@ Don’t miss out on your next unforgettable meal. Book a table with us today and
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -241,7 +256,9 @@ Browse through our collection and see why every meal and moment at PD Restaurant
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -269,7 +286,9 @@ Read their stories, and then come create your own! 🍽️💬
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -306,7 +325,9 @@ Use the form below to send us a message, and we'll get back to you soon. Whether
 
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -340,3 +361,9 @@ Follow us on:
 ## Copyright Information 📜
 © Copyright PD Restaurant - All Rights Reserved.  
 Designed by **Prashid Dilshan**
+
+
+
+<br>
+<br>
+<br>
