@@ -1,9 +1,10 @@
-🍽️ PD Restaurant Website - A Culinary Journey Like No Other 🍴
+# 🍽️ PD Restaurant Website - A Culinary Journey Like No Other
+
 Welcome to the official website of PD Restaurant! 🌟 Immerse yourself in the vibrant and rich flavors of Sri Lankan cuisine, brought to life through our beautifully designed website. Whether you're craving traditional dishes or innovative modern creations, our site is your gateway to an unforgettable dining experience. 🥘✨
 
-With a sleek, user-friendly interface, you'll easily navigate through key sections such as Home, About Us, Menu, Events, Chefs, Gallery, and Contact. 📲💻 Each page is thoughtfully designed to reflect the heart and soul of Sri Lanka’s culinary heritage, with stunning images and interactive features that showcase our passion for food and hospitality. ❤️
+With a sleek, user-friendly interface, you'll easily navigate through key sections such as **Home**, **About Us**, **Menu**, **Events**, **Chefs**, **Gallery**, and **Contact**. 📲💻 Each page is thoughtfully designed to reflect the heart and soul of Sri Lanka’s culinary heritage, with stunning images and interactive features that showcase our passion for food and hospitality. ❤️
 
-Whether you’re booking a table 📝, learning about our culinary story 📖, or exploring our diverse menu 🍛, PD Restaurant offers a seamless experience that highlights the authenticity and creativity of every dish. From aromatic spices to mouthwatering seafood 🦞, we pride ourselves on delivering dishes that tantalize your taste buds and nourish your soul. 🌶️💫
+Whether you’re **booking a table** 📝, learning about our **culinary story** 📖, or exploring our diverse **menu** 🍛, PD Restaurant offers a seamless experience that highlights the authenticity and creativity of every dish. From aromatic spices to mouthwatering seafood 🦞, we pride ourselves on delivering dishes that tantalize your taste buds and nourish your soul. 🌶️💫
 
 
 
