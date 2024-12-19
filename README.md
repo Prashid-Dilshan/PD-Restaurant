@@ -1,4 +1,4 @@
-# PD Restaurant Website - A Culinary Journey Like No Other
+# PD Restaurant Website 
 
 Welcome to the official website of PD Restaurant! 🌟 Immerse yourself in the vibrant and rich flavors of Sri Lankan cuisine, brought to life through our beautifully designed website. Whether you're craving traditional dishes or innovative modern creations, our site is your gateway to an unforgettable dining experience. 🥘✨
 
@@ -33,7 +33,9 @@ To explore the PD Restaurant website, follow these simple steps:
 3. Book a table or contact us through our simple forms.
 
 ## Contact Information
-
+- **[Facebook](https://www.facebook.com/share/Athc1wDLrQJ2Ptb4/?mibextid=LQQJ4d)**  
+- **[Instagram](https://www.instagram.com/prashid_dilshan/profilecard/?igsh=MXA3azhiOG9qN3I2aw==)**  
+- **[LinkedIn](https://www.linkedin.com/in/prashid-dilshan-ba054529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
 
 
 
