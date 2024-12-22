@@ -1,5 +1,7 @@
 # PD Restaurant Website 
 
+live demo https://prashid-dilshan.github.io/PD-Restaurant/
+
 Welcome to the official website of PD Restaurant! 🌟 Immerse yourself in the vibrant and rich flavors of Sri Lankan cuisine, brought to life through our beautifully designed website. Whether you're craving traditional dishes or innovative modern creations, our site is your gateway to an unforgettable dining experience. 🥘✨
 
 ## Features
