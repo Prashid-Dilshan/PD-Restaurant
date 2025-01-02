@@ -366,7 +366,10 @@ Follow us on:
 © Copyright PD Restaurant - All Rights Reserved.  
 Designed by **Prashid Dilshan**
 
+---
 
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise. 
 
 <br>
 <br>
