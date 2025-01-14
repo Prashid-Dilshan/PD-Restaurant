@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/5de49cb3-8fdc-4658-aa79-7e1bab0f5dd7)
 
 
-Welcome to the official website of PD Restaurant! 🌟 Immerse yourself in the vibrant and rich flavors of Sri Lankan cuisine, brought to life through our beautifully designed website. Whether you're craving traditional dishes or innovative modern creations, our site is your gateway to an unforgettable dining experience. 🥘✨
+Welcome to the official website of PD Restaurant! 🌟 
 
 ## Features
 
