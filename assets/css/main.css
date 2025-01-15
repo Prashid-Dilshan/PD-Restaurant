@@ -1390,7 +1390,15 @@ section,
 .chefs .team-member .member-img {
   position: relative;
   overflow: hidden;
+  width: 250px; /* Set a fixed width */
+  height: 250px; /* Set a fixed height to make it a square */
+  border-radius: 50%; /* Make the container circular */
+  object-fit: cover; /* Ensure the image fills the circle properly */
+  margin-left: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
+
 
 .chefs .team-member .member-img:after {
   position: absolute;
@@ -1568,6 +1576,8 @@ section,
   background-color: var(--accent-color);
   opacity: 1;
 }
+
+
 
 .gallery .swiper-slide-active {
   text-align: center;
