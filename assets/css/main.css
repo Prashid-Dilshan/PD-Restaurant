@@ -255,11 +255,12 @@ h6 {
 # Global Header
 --------------------------------------------------------------*/
 .header {
-  color: var(--default-color);
+  color: black;
   background-color: var(--background-color);
   padding: 20px 0;
   transition: all 0.5s;
   z-index: 997;
+  height: 75px;
 }
 
 .header .logo {
@@ -831,12 +832,25 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 60vh;
+  min-height: 90vh;
   position: relative;
   padding: 60px 0;
   display: flex;
   align-items: center;
+  margin-bottom: 17px;
 }
+
+.hero {
+  width: 100%;
+  height: 90vh; /* Full viewport height */
+  background-size: cover; /* Ensures the image covers the section */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  position: relative; /* To allow for additional content layers */
+}
+
+
+
 
 .hero h1 {
   margin: 0;
@@ -871,29 +885,29 @@ section,
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
 }
 
-.hero .btn-watch-video {
-  font-size: 16px;
-  transition: 0.5s;
-  margin-left: 25px;
-  color: var(--default-color);
-  font-weight: 500;
+
+.hero #BookaTable{
+  border: 2px red solid;
+  background-color: transparent;
+  margin-right: 20px;
 }
 
-.hero .btn-watch-video i {
-  color: var(--accent-color);
-  font-size: 32px;
-  transition: 0.3s;
-  line-height: 0;
-  margin-right: 8px;
+.hero #BookaTable:hover{
+  border: 2px red solid;
+  background-color: red;
 }
 
-.hero .btn-watch-video:hover {
-  color: var(--accent-color);
+.hero #ourmanu{
+  border: 2px red solid;
+  background-color: transparent;
 }
 
-.hero .btn-watch-video:hover i {
-  color: color-mix(in srgb, var(--accent-color), transparent 15%);
+.hero #ourmanu:hover{
+  border: 2px red solid;
+  background-color: red;
 }
+
+
 
 .hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
@@ -988,9 +1002,6 @@ section,
   color: rgb(0, 0, 0);
 }
 
-.about p .description-title span{
-  color: #059652;
-}
 
 
 /*--------------------------------------------------------------
@@ -1713,3 +1724,40 @@ section,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# Gallery Section
+--------------------------------------------------------------*/
+.gallery .gallery-item {
+  overflow: hidden;
+  border-right: 3px solid var(--background-color);
+  border-bottom: 3px solid var(--background-color);
+}
+
+.gallery .gallery-item img {
+  transition: all ease-in-out 0.4s;
+}
+
+.gallery .gallery-item:hover img {
+  transform: scale(1.1);
+}
