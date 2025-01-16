@@ -1,6 +1,7 @@
 # PD Restaurant Website 
 
-![image](https://github.com/user-attachments/assets/5de49cb3-8fdc-4658-aa79-7e1bab0f5dd7)
+![image](https://github.com/user-attachments/assets/948b3b7a-0c08-4f5b-bd3a-fbff1251aacb)
+
 
 
 Welcome to the official website of PD Restaurant! 🌟 
